@@ -1,5 +1,3 @@
 # About Me
 
-I'm a Computer Science student and a React.js Developer with experience in building modern web applications.
-I have experience with React.js and a strong passion for Software Engineering and Full-Stack MERN development.
-I enjoy building scalable projects and improving my development skills continuously.
+Computer Science student with strong experience across the full stack — from building responsive interfaces with React and Next.js to designing REST APIs with Node.js, Express, and MongoDB using MVC architecture. Strong foundation in Object-Oriented Programming, Data Structures, and Algorithms. Committed to writing clean, maintainable code and continuously learning modern technologies.
